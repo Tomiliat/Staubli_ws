@@ -1,0 +1,1 @@
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_tx60_gazebo/share/staubli_tx60_gazebo/cmake/staubli_tx60_gazeboConfig.cmake

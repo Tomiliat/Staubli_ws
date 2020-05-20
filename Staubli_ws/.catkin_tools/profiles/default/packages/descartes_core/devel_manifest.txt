@@ -1,0 +1,6 @@
+descartes/descartes_core
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/descartes_core/cmake.lock /home/tomiliatsereh/backupstaubli_ws/devel/./cmake.lock
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/descartes_core/share/descartes_core/cmake/descartes_coreConfig.cmake /home/tomiliatsereh/backupstaubli_ws/devel/share/descartes_core/cmake/descartes_coreConfig.cmake
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/descartes_core/share/descartes_core/cmake/descartes_coreConfig-version.cmake /home/tomiliatsereh/backupstaubli_ws/devel/share/descartes_core/cmake/descartes_coreConfig-version.cmake
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/descartes_core/lib/libdescartes_core.so /home/tomiliatsereh/backupstaubli_ws/devel/lib/libdescartes_core.so
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/descartes_core/lib/pkgconfig/descartes_core.pc /home/tomiliatsereh/backupstaubli_ws/devel/lib/pkgconfig/descartes_core.pc

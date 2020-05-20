@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomiliatsereh/backupstaubli_ws/src/resetprinter/src/mySerial.cpp
+asm/termbits.h
+-
+sys/ioctl.h
+-
+unistd.h
+-
+fcntl.h
+-
+iostream
+-
+mySerial.h
+/home/tomiliatsereh/backupstaubli_ws/src/resetprinter/src/mySerial.h
+
+/home/tomiliatsereh/backupstaubli_ws/src/resetprinter/src/mySerial.h
+string
+-
+
+/home/tomiliatsereh/backupstaubli_ws/src/resetprinter/src/resetprinter.cpp
+iostream
+-
+fstream
+-
+mySerial.h
+/home/tomiliatsereh/backupstaubli_ws/src/resetprinter/src/mySerial.h
+

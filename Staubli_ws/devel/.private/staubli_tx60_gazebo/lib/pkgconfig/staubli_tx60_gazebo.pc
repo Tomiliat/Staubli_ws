@@ -1,0 +1,8 @@
+prefix=/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_tx60_gazebo
+
+Name: staubli_tx60_gazebo
+Description: Description of staubli_tx60_gazebo
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

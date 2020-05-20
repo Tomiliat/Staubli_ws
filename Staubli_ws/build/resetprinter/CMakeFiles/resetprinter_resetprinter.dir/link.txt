@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/resetprinter_resetprinter.dir/src/resetprinter.cpp.o CMakeFiles/resetprinter_resetprinter.dir/src/mySerial.cpp.o  -o /home/tomiliatsereh/backupstaubli_ws/devel/.private/resetprinter/lib/resetprinter/resetprinter_resetprinter 

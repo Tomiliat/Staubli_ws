@@ -1,0 +1,11 @@
+CMakeFiles/printer_printertool.dir/src/printertool.cpp.o: In function `main':
+printertool.cpp:(.text+0x9fd): undefined reference to `tf::Transformer::DEFAULT_CACHE_TIME'
+printertool.cpp:(.text+0xa39): undefined reference to `tf::TransformListener::TransformListener(ros::Duration, bool)'
+printertool.cpp:(.text+0xbe8): undefined reference to `tf::Transformer::waitForTransform(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, ros::Time const&, ros::Duration const&, ros::Duration const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*) const'
+printertool.cpp:(.text+0xcdf): undefined reference to `tf::Transformer::lookupTransform(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, ros::Time const&, tf::StampedTransform&) const'
+printertool.cpp:(.text+0x131c): undefined reference to `tf::TransformListener::~TransformListener()'
+printertool.cpp:(.text+0x1953): undefined reference to `tf::TransformListener::~TransformListener()'
+collect2: error: ld returned 1 exit status
+make[2]: *** [/home/tomiliatsereh/backupstaubli_ws/devel/.private/printer/lib/printer/printer_printertool] Error 1
+make[1]: *** [CMakeFiles/printer_printertool.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,5 @@
+staubli/staubli_rx160_support
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_rx160_support/cmake.lock /home/tomiliatsereh/backupstaubli_ws/devel/./cmake.lock
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_rx160_support/share/staubli_rx160_support/cmake/staubli_rx160_supportConfig.cmake /home/tomiliatsereh/backupstaubli_ws/devel/share/staubli_rx160_support/cmake/staubli_rx160_supportConfig.cmake
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_rx160_support/share/staubli_rx160_support/cmake/staubli_rx160_supportConfig-version.cmake /home/tomiliatsereh/backupstaubli_ws/devel/share/staubli_rx160_support/cmake/staubli_rx160_supportConfig-version.cmake
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_rx160_support/lib/pkgconfig/staubli_rx160_support.pc /home/tomiliatsereh/backupstaubli_ws/devel/lib/pkgconfig/staubli_rx160_support.pc

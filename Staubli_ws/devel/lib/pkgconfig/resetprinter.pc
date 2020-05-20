@@ -1,0 +1,1 @@
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/resetprinter/lib/pkgconfig/resetprinter.pc

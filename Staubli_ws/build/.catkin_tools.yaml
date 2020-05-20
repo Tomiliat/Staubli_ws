@@ -1,0 +1,6 @@
+devel_space: /home/tomiliatsereh/backupstaubli_ws/devel
+install: false
+install_space: /home/tomiliatsereh/backupstaubli_ws/install
+profile: default
+source_space: /home/tomiliatsereh/backupstaubli_ws/src
+workspace: /home/tomiliatsereh/backupstaubli_ws

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target manufacturing_6dof_descartes_manufacturing[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/manufacturing_6dof_descartes_manufacturing.dir/src/descartes_manufacturing.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/tomiliatsereh/backupstaubli_ws/devel/.private/manufacturing_6dof/lib/manufacturing_6dof/descartes_manufacturing[0m
+[100%] Built target manufacturing_6dof_descartes_manufacturing

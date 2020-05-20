@@ -1,0 +1,1 @@
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/manufacturing_6dof/lib/pkgconfig/manufacturing_6dof.pc

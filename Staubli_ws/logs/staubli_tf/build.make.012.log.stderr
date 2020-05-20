@@ -1,0 +1,13 @@
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/staubli_tf/src/staubli_tf_listener.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/staubli_tf/src/staubli_tf_listener.cpp:49:41:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass tf::Vector3[m[K’ has no member named ‘[01m[Ki[m[K’
+        double i = transform.getOrigin().[01;31m[Ki[m[K();
+                                         [01;31m[K^[m[K
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/staubli_tf/src/staubli_tf_listener.cpp:50:41:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass tf::Vector3[m[K’ has no member named ‘[01m[Kj[m[K’
+        double j = transform.getOrigin().[01;31m[Kj[m[K();
+                                         [01;31m[K^[m[K
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/staubli_tf/src/staubli_tf_listener.cpp:51:41:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass tf::Vector3[m[K’ has no member named ‘[01m[Kk[m[K’
+        double k = transform.getOrigin().[01;31m[Kk[m[K();
+                                         [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/staubli_tf_listener.dir/src/staubli_tf_listener.cpp.o] Error 1
+make[1]: *** [CMakeFiles/staubli_tf_listener.dir/all] Error 2
+make: *** [all] Error 2

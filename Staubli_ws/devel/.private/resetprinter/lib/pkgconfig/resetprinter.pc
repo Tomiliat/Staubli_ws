@@ -1,0 +1,8 @@
+prefix=/home/tomiliatsereh/backupstaubli_ws/devel/.private/resetprinter
+
+Name: resetprinter
+Description: Description of resetprinter
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

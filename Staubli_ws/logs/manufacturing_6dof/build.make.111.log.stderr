@@ -1,0 +1,7 @@
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/manufacturing_6dof/src/descartes_manufacturing.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/manufacturing_6dof/src/descartes_manufacturing.cpp:89:81:[m[K [01;31m[Kerror: [m[K‘[01m[Kprintertool_frame[m[K’ was not declared in this scope
+   if (!model->initialize(robot_description, group_name, world_frame, tcp_frame, [01;31m[Kprintertool_frame[m[K))
+                                                                                 [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/manufacturing_6dof_descartes_manufacturing.dir/src/descartes_manufacturing.cpp.o] Error 1
+make[1]: *** [CMakeFiles/manufacturing_6dof_descartes_manufacturing.dir/all] Error 2
+make: *** [all] Error 2

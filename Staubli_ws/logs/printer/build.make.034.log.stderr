@@ -1,0 +1,5 @@
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/printer/src/printertool.cpp:119:31:[m[K [01;35m[Kwarning: [m[Kcharacter constant too long for its type
+                 line.back() = [01;35m[K' F79.8243'[m[K;
+                               [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/printer/src/printertool.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/printer/src/printertool.cpp:119:31:[m[K [01;35m[Kwarning: [m[Koverflow in implicit constant conversion [[01;35m[K-Woverflow[m[K]

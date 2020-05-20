@@ -1,0 +1,1 @@
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_rx160_moveit_plugins/share/staubli_rx160_moveit_plugins/cmake/staubli_rx160_moveit_pluginsConfig.cmake

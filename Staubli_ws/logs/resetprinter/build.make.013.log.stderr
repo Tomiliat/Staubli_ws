@@ -1,0 +1,10 @@
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/resetprinter/src/resetprinter.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/resetprinter/src/resetprinter.cpp:23:24:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kstd::ifstream read[m[K’
+     std::ifstream read [01;31m[K([m[K"reset.txt");
+                        [01;31m[K^[m[K
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/resetprinter/src/resetprinter.cpp:18:19:[m[K [01;36m[Knote: [m[K‘[01m[Kstd::ifstream read[m[K’ previously declared here
+     std::ifstream [01;36m[Kread[m[K;
+                   [01;36m[K^~~~[m[K
+make[2]: *** [CMakeFiles/resetprinter_resetprinter.dir/src/resetprinter.cpp.o] Error 1
+make[1]: *** [CMakeFiles/resetprinter_resetprinter.dir/all] Error 2
+make: *** [all] Error 2

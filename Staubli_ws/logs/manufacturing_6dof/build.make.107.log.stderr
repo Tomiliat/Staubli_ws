@@ -1,0 +1,14 @@
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/manufacturing_6dof/src/descartes_manufacturing.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/manufacturing_6dof/src/descartes_manufacturing.cpp:88:98:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Kdescartes_core::RobotModel::initialize(const string&, const string&, const string&, const string&, const string&)[m[K’
+   if (!model->initialize(robot_description, group_name, world_frame, tcp_frame, printertool_frame[01;31m[K)[m[K)
+                                                                                                  [01;31m[K^[m[K
+In file included from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_moveit/include/descartes_moveit/moveit_state_adapter.h:22:0[m[K,
+                 from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_moveit/include/descartes_moveit/ikfast_moveit_state_adapter.h:22[m[K,
+                 from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/manufacturing_6dof/src/descartes_manufacturing.cpp:11[m[K:
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_core/include/descartes_core/robot_model.h:109:16:[m[K [01;36m[Knote: [m[Kcandidate: virtual bool descartes_core::RobotModel::initialize(const string&, const string&, const string&, const string&)
+   virtual bool [01;36m[Kinitialize[m[K(const std::string &robot_description, const std::string &group_name,
+                [01;36m[K^~~~~~~~~~[m[K
+[01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_core/include/descartes_core/robot_model.h:109:16:[m[K [01;36m[Knote: [m[K  candidate expects 4 arguments, 5 provided
+make[2]: *** [CMakeFiles/manufacturing_6dof_descartes_manufacturing.dir/src/descartes_manufacturing.cpp.o] Error 1
+make[1]: *** [CMakeFiles/manufacturing_6dof_descartes_manufacturing.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,8 @@
+prefix=/home/tomiliatsereh/backupstaubli_ws/install
+
+Name: staubli_tx40_support
+Description: Description of staubli_tx40_support
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

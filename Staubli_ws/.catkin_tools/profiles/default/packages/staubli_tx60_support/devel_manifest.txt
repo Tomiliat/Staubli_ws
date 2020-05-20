@@ -1,0 +1,5 @@
+staubli_experimental/staubli_tx60_support
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_tx60_support/cmake.lock /home/tomiliatsereh/backupstaubli_ws/devel/./cmake.lock
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_tx60_support/share/staubli_tx60_support/cmake/staubli_tx60_supportConfig-version.cmake /home/tomiliatsereh/backupstaubli_ws/devel/share/staubli_tx60_support/cmake/staubli_tx60_supportConfig-version.cmake
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_tx60_support/share/staubli_tx60_support/cmake/staubli_tx60_supportConfig.cmake /home/tomiliatsereh/backupstaubli_ws/devel/share/staubli_tx60_support/cmake/staubli_tx60_supportConfig.cmake
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_tx60_support/lib/pkgconfig/staubli_tx60_support.pc /home/tomiliatsereh/backupstaubli_ws/devel/lib/pkgconfig/staubli_tx60_support.pc

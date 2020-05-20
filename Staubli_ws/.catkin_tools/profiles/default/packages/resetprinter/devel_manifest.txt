@@ -1,0 +1,6 @@
+resetprinter
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/resetprinter/cmake.lock /home/tomiliatsereh/backupstaubli_ws/devel/./cmake.lock
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/resetprinter/share/resetprinter/cmake/resetprinterConfig.cmake /home/tomiliatsereh/backupstaubli_ws/devel/share/resetprinter/cmake/resetprinterConfig.cmake
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/resetprinter/share/resetprinter/cmake/resetprinterConfig-version.cmake /home/tomiliatsereh/backupstaubli_ws/devel/share/resetprinter/cmake/resetprinterConfig-version.cmake
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/resetprinter/lib/resetprinter/resetprinter_resetprinter /home/tomiliatsereh/backupstaubli_ws/devel/lib/resetprinter/resetprinter_resetprinter
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/resetprinter/lib/pkgconfig/resetprinter.pc /home/tomiliatsereh/backupstaubli_ws/devel/lib/pkgconfig/resetprinter.pc

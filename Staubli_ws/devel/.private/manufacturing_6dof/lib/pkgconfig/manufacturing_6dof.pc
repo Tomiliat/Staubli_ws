@@ -1,0 +1,8 @@
+prefix=/home/tomiliatsereh/backupstaubli_ws/devel/.private/manufacturing_6dof
+
+Name: manufacturing_6dof
+Description: Description of manufacturing_6dof
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: descartes_moveit descartes_planner descartes_trajectory descartes_utilities descartes_core eigen_conversions roslib tf tf_conversions trajectory_msgs roscpp

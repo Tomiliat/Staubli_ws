@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "/home/tomiliatsereh/staubli_ws/src/descartes/descartes_core/include/**",
+                "/home/tomiliatsereh/staubli_ws/src/descartes/descartes_moveit/include/**",
+                "/home/tomiliatsereh/staubli_ws/src/descartes/descartes_planner/include/**",
+                "/home/tomiliatsereh/staubli_ws/src/descartes/descartes_tests/include/**",
+                "/home/tomiliatsereh/staubli_ws/src/descartes/descartes_trajectory/include/**",
+                "/home/tomiliatsereh/staubli_ws/src/descartes/descartes_utilities/include/**",
+                "/home/tomiliatsereh/staubli_ws/src/manufacturing_6dof/include/**",
+                "/home/tomiliatsereh/staubli_ws/src/printer/include/**",
+                "/home/tomiliatsereh/staubli_ws/src/staubli_experimental/staubli_tx40_manipulator_ikfast_plugin/include/**",
+                "/home/tomiliatsereh/staubli_ws/src/test_moveit/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,108 @@
+In file included from [01m[K/opt/ros/melodic/include/moveit/kinematic_constraints/kinematic_constraint.h:41:0[m[K,
+                 from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_trajectory/include/descartes_trajectory/cart_trajectory_pt.h:28[m[K,
+                 from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_trajectory/include/descartes_trajectory/axial_symmetric_pt.h:22[m[K,
+                 from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_trajectory/src/axial_symmetric_pt.cpp:18[m[K:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Pose&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:959:89:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   setFromIK(const JointModelGroup* group, const geometry_msgs::Pose& pose, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                                         [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Pose&, const string&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:978:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                          [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Isometry3d&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:995:87:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   setFromIK(const JointModelGroup* group, const Eigen::Isometry3d& pose, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                                       [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Isometry3d&, const string&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1012:111:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   setFromIK(const JointModelGroup* group, const Eigen::Isometry3d& pose, const std::string& tip, unsigned int [01;35m[Kattempts[m[K,
+                                                                                                               [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Isometry3d&, const string&, const std::vector<double>&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1033:73:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             const std::vector<double>& consistency_limits, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                         [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const vector_Isometry3d&, const std::vector<std::__cxx11::basic_string<char> >&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1055:64:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             const std::vector<std::string>& tips, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const vector_Isometry3d&, const std::vector<std::__cxx11::basic_string<char> >&, const std::vector<std::vector<double> >&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1079:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                          [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIKSubgroups(const moveit::core::JointModelGroup*, const vector_Isometry3d&, const std::vector<std::__cxx11::basic_string<char> >&, const std::vector<std::vector<double> >&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1102:35:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+                      unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                   [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/moveit/kinematic_constraints/kinematic_constraint.h:41:0[m[K,
+                 from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_trajectory/include/descartes_trajectory/cart_trajectory_pt.h:28[m[K,
+                 from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_trajectory/src/cart_trajectory_pt.cpp:31[m[K:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Pose&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:959:89:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   setFromIK(const JointModelGroup* group, const geometry_msgs::Pose& pose, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                                         [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Pose&, const string&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:978:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                          [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Isometry3d&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:995:87:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   setFromIK(const JointModelGroup* group, const Eigen::Isometry3d& pose, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                                       [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Isometry3d&, const string&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1012:111:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   setFromIK(const JointModelGroup* group, const Eigen::Isometry3d& pose, const std::string& tip, unsigned int [01;35m[Kattempts[m[K,
+                                                                                                               [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Isometry3d&, const string&, const std::vector<double>&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1033:73:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             const std::vector<double>& consistency_limits, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                         [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const vector_Isometry3d&, const std::vector<std::__cxx11::basic_string<char> >&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1055:64:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             const std::vector<std::string>& tips, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const vector_Isometry3d&, const std::vector<std::__cxx11::basic_string<char> >&, const std::vector<std::vector<double> >&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1079:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                          [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIKSubgroups(const moveit::core::JointModelGroup*, const vector_Isometry3d&, const std::vector<std::__cxx11::basic_string<char> >&, const std::vector<std::vector<double> >&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1102:35:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+                      unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                   [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/moveit/kinematic_constraints/kinematic_constraint.h:41:0[m[K,
+                 from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_core/include/descartes_core/robot_model.h:23[m[K,
+                 from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_core/include/descartes_core/trajectory_pt.h:33[m[K,
+                 from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_trajectory/include/descartes_trajectory/joint_trajectory_pt.h:29[m[K,
+                 from [01m[K/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_trajectory/src/joint_trajectory_pt.cpp:26[m[K:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Pose&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:959:89:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   setFromIK(const JointModelGroup* group, const geometry_msgs::Pose& pose, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                                         [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Pose&, const string&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:978:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                          [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Isometry3d&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:995:87:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   setFromIK(const JointModelGroup* group, const Eigen::Isometry3d& pose, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                                       [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Isometry3d&, const string&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1012:111:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   setFromIK(const JointModelGroup* group, const Eigen::Isometry3d& pose, const std::string& tip, unsigned int [01;35m[Kattempts[m[K,
+                                                                                                               [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const Isometry3d&, const string&, const std::vector<double>&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1033:73:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             const std::vector<double>& consistency_limits, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                         [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const vector_Isometry3d&, const std::vector<std::__cxx11::basic_string<char> >&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1055:64:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             const std::vector<std::string>& tips, unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                                                [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIK(const moveit::core::JointModelGroup*, const vector_Isometry3d&, const std::vector<std::__cxx11::basic_string<char> >&, const std::vector<std::vector<double> >&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1079:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+             unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                          [01;35m[K^~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:[m[K In member function ‘[01m[Kbool moveit::core::RobotState::setFromIKSubgroups(const moveit::core::JointModelGroup*, const vector_Isometry3d&, const std::vector<std::__cxx11::basic_string<char> >&, const std::vector<std::vector<double> >&, unsigned int, double, const GroupStateValidityCallbackFn&, const kinematics::KinematicsQueryOptions&)[m[K’:
+[01m[K/opt/ros/melodic/include/moveit/robot_state/robot_state.h:1102:35:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kattempts[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+                      unsigned int [01;35m[Kattempts[m[K, double timeout = 0.0,
+                                   [01;35m[K^~~~~~~~[m[K

@@ -1,0 +1,1 @@
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_rx160_moveit_plugins/lib/pkgconfig/staubli_rx160_moveit_plugins.pc

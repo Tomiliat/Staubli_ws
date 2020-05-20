@@ -1,0 +1,1 @@
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_tx40_support/lib/pkgconfig/staubli_tx40_support.pc

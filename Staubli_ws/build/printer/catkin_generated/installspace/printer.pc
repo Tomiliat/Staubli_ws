@@ -1,0 +1,8 @@
+prefix=/home/tomiliatsereh/backupstaubli_ws/install
+
+Name: printer
+Description: Description of printer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

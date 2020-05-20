@@ -1,0 +1,154 @@
+rosrun manufacturing_6dof descartes_manufacturing 
+[ INFO] [1589526236.338801537]: Loading robot model 'staubli_tx40'...
+[ INFO] [1589526236.424847981]: World frame 'custom' does not match model root frame 'base_link', all poses will be transformed to world frame 'custom'
+[ INFO] [1589526236.425795522]: initialized with IKFast tool frame 'tool0' and base frame 'base_link'.
+Enter G-Code filename: frametest.gcode
+0
+0
+0
+0.05
+   0
+   0
+   0
+0.05
+   0
+0
+0
+0
+[ INFO] [1589526240.162273966]: Computed path of length 4 with cost 1.969313
+header: 
+  seq: 0
+  stamp: 0.000000000
+  frame_id: 
+joint_names[]
+  joint_names[0]: joint_1
+  joint_names[1]: joint_2
+  joint_names[2]: joint_3
+  joint_names[3]: joint_4
+  joint_names[4]: joint_5
+  joint_names[5]: joint_6
+points[]
+  points[0]: 
+    positions[]
+      positions[0]: 1.949
+      positions[1]: 0.178772
+      positions[2]: 2.13143
+      positions[3]: 3.14159
+      positions[4]: -0.83139
+      positions[5]: 0.378206
+    velocities[]
+      velocities[0]: 0
+      velocities[1]: 0
+      velocities[2]: 0
+      velocities[3]: 0
+      velocities[4]: 0
+      velocities[5]: 0
+    accelerations[]
+      accelerations[0]: 0
+      accelerations[1]: 0
+      accelerations[2]: 0
+      accelerations[3]: 0
+      accelerations[4]: 0
+      accelerations[5]: 0
+    effort[]
+      effort[0]: 0
+      effort[1]: 0
+      effort[2]: 0
+      effort[3]: 0
+      effort[4]: 0
+      effort[5]: 0
+    time_from_start: 0.000000000
+  points[1]: 
+    positions[]
+      positions[0]: 1.7009
+      positions[1]: 0.0935725
+      positions[2]: 2.23239
+      positions[3]: 3.14159
+      positions[4]: -0.815627
+      positions[5]: 0.391902
+    velocities[]
+      velocities[0]: 0
+      velocities[1]: 0
+      velocities[2]: 0
+      velocities[3]: 0
+      velocities[4]: 0
+      velocities[5]: 0
+    accelerations[]
+      accelerations[0]: 0
+      accelerations[1]: 0
+      accelerations[2]: 0
+      accelerations[3]: 0
+      accelerations[4]: 0
+      accelerations[5]: 0
+    effort[]
+      effort[0]: 0
+      effort[1]: 0
+      effort[2]: 0
+      effort[3]: 0
+      effort[4]: 0
+      effort[5]: 0
+    time_from_start: 3.000000000
+  points[2]: 
+    positions[]
+      positions[0]: 1.87571
+      positions[1]: 0.34559
+      positions[2]: 1.90761
+      positions[3]: 3.14159
+      positions[4]: -0.88839
+      positions[5]: 0.304909
+    velocities[]
+      velocities[0]: 0
+      velocities[1]: 0
+      velocities[2]: 0
+      velocities[3]: 0
+      velocities[4]: 0
+      velocities[5]: 0
+    accelerations[]
+      accelerations[0]: 0
+      accelerations[1]: 0
+      accelerations[2]: 0
+      accelerations[3]: 0
+      accelerations[4]: 0
+      accelerations[5]: 0
+    effort[]
+      effort[0]: 0
+      effort[1]: 0
+      effort[2]: 0
+      effort[3]: 0
+      effort[4]: 0
+      effort[5]: 0
+    time_from_start: 7.242640687
+  points[3]: 
+    positions[]
+      positions[0]: 1.949
+      positions[1]: 0.178772
+      positions[2]: 2.13143
+      positions[3]: 3.14159
+      positions[4]: -0.83139
+      positions[5]: 0.378206
+    velocities[]
+      velocities[0]: 0
+      velocities[1]: 0
+      velocities[2]: 0
+      velocities[3]: 0
+      velocities[4]: 0
+      velocities[5]: 0
+    accelerations[]
+      accelerations[0]: 0
+      accelerations[1]: 0
+      accelerations[2]: 0
+      accelerations[3]: 0
+      accelerations[4]: 0
+      accelerations[5]: 0
+    effort[]
+      effort[0]: 0
+      effort[1]: 0
+      effort[2]: 0
+      effort[3]: 0
+      effort[4]: 0
+      effort[5]: 0
+    time_from_start: 10.242640687
+
+[ INFO] [1589526243.936930694]: Done!
+[ WARN] [1589526243.937228762]: SEVERE WARNING!!! Attempting to unload library while objects created by this loader exist in the heap! You should delete your objects before attempting to unload the library or destroying the ClassLoader. The library will NOT be unloaded.
+

@@ -1,0 +1,1 @@
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/descartes_core/lib/pkgconfig/descartes_core.pc

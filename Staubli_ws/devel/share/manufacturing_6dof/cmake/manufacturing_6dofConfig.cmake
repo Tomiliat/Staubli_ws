@@ -1,0 +1,1 @@
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/manufacturing_6dof/share/manufacturing_6dof/cmake/manufacturing_6dofConfig.cmake

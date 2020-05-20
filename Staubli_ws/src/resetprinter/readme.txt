@@ -1,0 +1,1 @@
+This is just a simplified node of printertool. It is not including any robot position related additions. This node is taking a G-code and sending it straight away to the Marlin. Could be useful in the future for debugging. For example if F should be sent in every line.

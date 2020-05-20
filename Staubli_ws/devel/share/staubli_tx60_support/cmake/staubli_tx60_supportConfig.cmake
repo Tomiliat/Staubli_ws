@@ -1,0 +1,1 @@
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/staubli_tx60_support/share/staubli_tx60_support/cmake/staubli_tx60_supportConfig.cmake

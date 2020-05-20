@@ -1,0 +1,8 @@
+prefix=/home/tomiliatsereh/backupstaubli_ws/devel/.private/test_moveit
+
+Name: test_moveit
+Description: Description of test_moveit
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: moveit_core moveit_ros_planning_interface roscpp geometry_msgs

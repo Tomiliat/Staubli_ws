@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_core/include/descartes_core/trajectory_id.h
+iostream
+-
+boost/thread/mutex.hpp
+-
+
+/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_core/src/trajectory_id.cpp
+descartes_core/trajectory_id.h
+/home/tomiliatsereh/backupstaubli_ws/src/descartes/descartes_core/src/descartes_core/trajectory_id.h
+

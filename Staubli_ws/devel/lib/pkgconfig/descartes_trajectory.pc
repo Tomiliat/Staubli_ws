@@ -1,0 +1,1 @@
+/home/tomiliatsereh/backupstaubli_ws/devel/.private/descartes_trajectory/lib/pkgconfig/descartes_trajectory.pc
